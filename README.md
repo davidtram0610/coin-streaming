@@ -1,5 +1,11 @@
 # A streaming microservice to handle streaming data from CoinBase
 
+### Requirements
+
+```
+node, npm, docker
+```
+
 ### Initialization to start server
 
 ```
